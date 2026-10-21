@@ -13,7 +13,7 @@
 </div>
 
 ## 👋 Sobre mí
-Desarrollador full-stack junior en Sevilla. Me gusta llevar un producto desde el diseño de la base de datos hasta producción: lideré el desarrollo de un portal de bolsa de empleo para una asociación empresarial y lo desplegué con Docker, Nginx y HTTPS.
+Desarrollador full-stack junior en Sevilla. Me gusta llevar un producto desde el diseño de la base de datos hasta producción: en mis prácticas desarrollé un portal de bolsa de empleo para una asociación empresarial y lo desplegué con Docker, Nginx y HTTPS.
 
 ## 🛠️ Stack
 <p align="center">
